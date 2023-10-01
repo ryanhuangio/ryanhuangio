@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hello, I am Ryan.
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanhuangio&theme=dark&layout=compact&langs_count=10)
 
