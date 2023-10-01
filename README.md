@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanhuangio&theme=dark&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanhuangio&theme=monokai&show_icons=true)
 
 
 <!--
